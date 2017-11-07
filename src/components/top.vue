@@ -23,3 +23,6 @@
         </div>
     </div>
 </template>
+<style scoped>
+    @import "/src/assets/css/top.scss";
+</style>

@@ -1,3 +1,37 @@
-.nav{
+.nav {
   margin-top: 50px;
+  height: 40px;
+  border-bottom: 1px solid black;
+    .nav-ul {
+      width: 720px;
+      overflow: hidden;
+      float: left;
+      .active{
+        color: #ff5b63;
+        border-bottom: 2px solid #ff5b63;
+      }
+        li {
+            float: left;
+            a {
+              font-size: 16px;
+              color: #333;
+              line-height: 40px;
+              display: block;
+              text-align: center;
+              font-weight: bold;
+              padding: 0 25px 0 25px;
+            }
+
+        }
+    }
+  .cart{
+    width: 176px;
+    height: 40px;
+    float: right;
+    line-height: 40px;
+    color: #666;
+    cursor: pointer;
+    text-align: center;
+    border: 1px solid #D0d0d0;
+  }
 }
