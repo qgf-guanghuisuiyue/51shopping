@@ -1,4 +1,12 @@
 .container{
   width: 980px;
   margin: 0 auto;
+  overflow: hidden;
+}
+.p-title{
+  width: 100%;
+  height: 56px;
+  line-height: 56px;
+  color: #676767;
+  font-size: 12px;
 }
