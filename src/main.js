@@ -2,6 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import './assets/css/top.scss'
 import './assets/css/nav.scss'
+import './assets/css/home.scss'
 import './assets/css/common.scss'
 
 //路由安装
