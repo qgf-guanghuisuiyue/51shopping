@@ -2,7 +2,6 @@
   margin-top: 50px;
   height: 40px;
   border-bottom: 1px solid black;
-  margin-bottom: 5px;
     .nav-ul {
       width: 720px;
       overflow: hidden;
@@ -34,5 +33,6 @@
     cursor: pointer;
     text-align: center;
     border: 1px solid #D0d0d0;
+    border-bottom: none;
   }
 }

@@ -1,12 +1,11 @@
 <template>
-    <div class="container">
-        <div class="main">
-            <router-view></router-view>
-        </div>
+    <div class="main">
+        <router-view></router-view>
     </div>
 </template>
 <style>
     .main{
-        height: 800px;
+        width:100%;
+        overflow:hidden;
     }
 </style>

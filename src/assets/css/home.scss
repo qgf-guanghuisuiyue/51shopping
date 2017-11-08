@@ -8,7 +8,7 @@
     .content{
         width: 100%;
         background: #f7f7f7;
-        height: 1800px;
+        padding-bottom: 25px;
         .container{
             .news{
                 height: 32px;
@@ -51,37 +51,80 @@
                     width: 245px;
                     height: 489px;
                     float: left;
-                    background-image: url("/src/assets/images/home/home_5.jpg")
+                    background-image: url("/src/assets/images/home/home_5.jpg");
+                    .inside-box{
+                        margin: 6px;
+                        img{
+                            float: left;
+                            margin: 2px;
+                        }
+                    }
                 }
                 .right-content{
                     width: 733px;
                     height: 487px;
-                    border: 1px solid red;
+                    background: white;
                     float: left;
-                    .small-goods{
-                        width: 246px;
+                    .three-small{
+                        width: 733px;
                         height: 246px;
-                        border: 1px solid red;
-                        .title{
-                            width: 206px;
-                            margin: 25px 20px 12px 20px;
-                            overflow: hidden;
-                            text-overflow:ellipsis;
-                            white-space: nowrap;
-                            font-size: 12px; 
-                            color: #333333;
-                            font-weight: bolder;
-                        }
-                        .introduce{
-                            color: #ff5b64;
-                            width: 206px;
-                            overflow: hidden;
-                            margin: 0 20px;
-                            font-size: 12px;
-                            text-overflow:ellipsis;
-                            white-space: nowrap;
+                        .small-goods{
+                            float: left;
+                            width: 243px;
+                            height: 246px;
+                            position: relative;
+                            border-right: 1px solid #e7e7e7;
+                            border-bottom: 1px solid #e7e7e7;
+                            .title{
+                                width: 206px;
+                                margin: 25px 20px 12px 20px;
+                                overflow: hidden;
+                                text-overflow:ellipsis;
+                                white-space: nowrap;
+                                font-size: 12px; 
+                                color: #333333;
+                                font-weight: bolder;
+                            }
+                            .introduce{
+                                color: #ff5b64;
+                                width: 206px;
+                                overflow: hidden;
+                                margin: 0 20px;
+                                margin-bottom: 15px;
+                                font-size: 12px;
+                                text-overflow:ellipsis;
+                                white-space: nowrap;
+                            }
+                            .img-style{
+                                width: 206px;
+                                margin: 0 20px;
+                                height: 146px;
+                            }
+                            .circle{
+                                width:84px;
+                                height: 84px;
+                                border-radius: 50%;
+                                background: #ff8d7b;
+                                color: white;
+                                overflow: hidden;
+                                position: absolute;
+                                top:146px;
+                                left: 20px;
+                                .up{
+                                    font-size: 14px;
+                                    text-align: center;
+                                    margin-top: 25px;
+                                    margin-bottom: 3px;
+                                }
+                                .down{
+                                    font-size: 10px;
+                                    text-decoration: line-through;
+                                    text-align: center;
+                                }
+                            }
                         }
                     }
+                    
                 }
                 .two-img{
                     height: 136px;
@@ -157,7 +200,7 @@
             height: 70px;
             width: 100%;
             background: white;
-            .content{
+            .contents{
                 width: 980px;
                 height: 70px;
                 margin: 0 auto;

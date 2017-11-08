@@ -7,7 +7,7 @@
                 <div class="news"></div>
             </div>
             <div class="key-word">
-                <div class="content">
+                <div class="contents">
                     <div class="key-box">
                         <img src="/src/assets/images/home/home_1.jpg"/>
                         <div class="word-box">
@@ -121,12 +121,156 @@
                     <div class="more">更多专题 ></div>
                 </div>
                 <div class="goods-box">
-                    <div class="left-img"></div>
+                    <div class="left-img">
+                        <div class="inside-box">
+                            <img src="/src/assets/images/home/home_7.jpg"/>
+                            <img src="/src/assets/images/home/home_7.jpg"/>
+                            <img src="/src/assets/images/home/home_7.jpg"/>
+                            <img src="/src/assets/images/home/home_7.jpg"/>
+                            <img src="/src/assets/images/home/home_7.jpg"/>
+                            <img src="/src/assets/images/home/home_7.jpg"/>
+                        </div>
+                    </div>
                     <div class="black-line"></div>
                     <div class="right-content">
-                        <div class="small-goods">
-                            <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
-                            <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                        <div class="three-small">
+                            <div class="small-goods">
+                                <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
+                                <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                                <img class="img-style" src="/src/assets/images/home/home_6.jpg"/>
+                                <div class="circle">
+                                    <div class="up">79.00</div>
+                                    <div class="down">129.00</div>
+                                </div>
+                            </div>
+                            <div class="small-goods">
+                                <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
+                                <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                                <img class="img-style" src="/src/assets/images/home/home_6.jpg"/>
+                                <div class="circle">
+                                    <div class="up">79.00</div>
+                                    <div class="down">129.00</div>
+                                </div>
+                            </div>
+                            <div class="small-goods">
+                                <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
+                                <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                                <img class="img-style" src="/src/assets/images/home/home_6.jpg"/>
+                                <div class="circle">
+                                    <div class="up">79.00</div>
+                                    <div class="down">129.00</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="three-small">
+                            <div class="small-goods">
+                                <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
+                                <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                                <img class="img-style" src="/src/assets/images/home/home_6.jpg"/>
+                                <div class="circle">
+                                    <div class="up">79.00</div>
+                                    <div class="down">129.00</div>
+                                </div>
+                            </div>
+                            <div class="small-goods">
+                                <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
+                                <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                                <img class="img-style" src="/src/assets/images/home/home_6.jpg"/>
+                                <div class="circle">
+                                    <div class="up">79.00</div>
+                                    <div class="down">129.00</div>
+                                </div>
+                            </div>
+                            <div class="small-goods">
+                                <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
+                                <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                                <img class="img-style" src="/src/assets/images/home/home_6.jpg"/>
+                                <div class="circle">
+                                    <div class="up">79.00</div>
+                                    <div class="down">129.00</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="recommend">
+                    <img class="icon" src="/src/assets/images/home/home_4.jpg"/>
+                    <div class="chinese">个护美妆</div>
+                    <span>洁面</span><span>面膜</span><span>防晒</span><span>粉底</span><span>唇妆</span><span>香水</span><span>香皂</span>
+                    <div class="more">更多专题 ></div>
+                </div>
+                <div class="goods-box">
+                    <div class="left-img">
+                        <div class="inside-box">
+                            <img src="/src/assets/images/home/home_7.jpg"/>
+                            <img src="/src/assets/images/home/home_7.jpg"/>
+                            <img src="/src/assets/images/home/home_7.jpg"/>
+                            <img src="/src/assets/images/home/home_7.jpg"/>
+                            <img src="/src/assets/images/home/home_7.jpg"/>
+                            <img src="/src/assets/images/home/home_7.jpg"/>
+                        </div>
+                    </div>
+                    <div class="black-line"></div>
+                    <div class="right-content">
+                        <div class="three-small">
+                            <div class="small-goods">
+                                <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
+                                <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                                <img class="img-style" src="/src/assets/images/home/home_6.jpg"/>
+                                <div class="circle">
+                                    <div class="up">79.00</div>
+                                    <div class="down">129.00</div>
+                                </div>
+                            </div>
+                            <div class="small-goods">
+                                <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
+                                <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                                <img class="img-style" src="/src/assets/images/home/home_6.jpg"/>
+                                <div class="circle">
+                                    <div class="up">79.00</div>
+                                    <div class="down">129.00</div>
+                                </div>
+                            </div>
+                            <div class="small-goods">
+                                <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
+                                <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                                <img class="img-style" src="/src/assets/images/home/home_6.jpg"/>
+                                <div class="circle">
+                                    <div class="up">79.00</div>
+                                    <div class="down">129.00</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="three-small">
+                            <div class="small-goods">
+                                <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
+                                <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                                <img class="img-style" src="/src/assets/images/home/home_6.jpg"/>
+                                <div class="circle">
+                                    <div class="up">79.00</div>
+                                    <div class="down">129.00</div>
+                                </div>
+                            </div>
+                            <div class="small-goods">
+                                <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
+                                <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                                <img class="img-style" src="/src/assets/images/home/home_6.jpg"/>
+                                <div class="circle">
+                                    <div class="up">79.00</div>
+                                    <div class="down">129.00</div>
+                                </div>
+                            </div>
+                            <div class="small-goods">
+                                <div class="title">【双十一限量】佳洁士小头养银牙宏发科技树</div>
+                                <div class="introduce">双11特惠限量，享誉全球口腔护理品牌，耐用刷头，清洁护齿。</div>
+                                <img class="img-style" src="/src/assets/images/home/home_6.jpg"/>
+                                <div class="circle">
+                                    <div class="up">79.00</div>
+                                    <div class="down">129.00</div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
